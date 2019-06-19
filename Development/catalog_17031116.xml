@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="catalog_17031116.css"?>
+<!DOCTYPE company SYSTEM "catalog_17031116.dtd">
+<company>
+  <logo/>
+  <company_detail>
+    <name>Yorbax</name>
+    <address>Kamalpokhari</address>
+    <contact>01415265</contact>
+    <website>www.Yorbax.com.np</website>
+    <establish_date>2018-10-07</establish_date>
+  </company_detail>
+  <ceo>
+    <ceo_photo/>
+    <ceo_details>
+      <name>
+        <first_name>Charles</first_name>
+        <last_name>Phillips</last_name>
+      </name>
+      <age>42</age>
+      <gender>Male</gender>
+      <email>Phillips.Charles@gmail.com</email>
+      <salary>380000</salary>
+    </ceo_details>
+    <department dptID="4">
+      <department_details>
+        <department_name>Mobile Department</department_name>
+        <department_floor>5</department_floor>
+      </department_details>
+      <project_manager>
+       <manager_photo/>
+        <manager_details dpt="Mobile">
+          <name>
+            <first_name>Ellen</first_name>
+            <last_name>Hills</last_name>
+          </name>
+          <age>38</age>
+          <gender>Female</gender>
+          <email>ellenhills@gmail.com</email>
+          <salary>220000</salary>
+        </manager_details>
+        <project projID="1">
+          <project_details>
+            <project_photo/>
+            <project_name>GPS System</project_name>
+            <startDate>2019-01-01</startDate>
+            <endDate>2019-05-06</endDate>
+            <status>Completed</status>
+          </project_details>
+          <team_leader>
+            <leader_photo/>
+            <leader_details dpt="Mob">
+              <name>
+                <first_name>Rajiv</first_name>
+                <last_name>Luitel</last_name>
+              </name>
+              <age>21</age>
+              <gender>Male</gender>
+              <email>razivluitel@gmail.com</email>
+              <salary>150000</salary>
+              <member>5</member>
+            </leader_details>
+            <Employee empID="1">
+              <employee_details>
+                <name>
+                  <First_name>sonal</First_name>
+                  <Last_name>bhattarai</Last_name>
+                </name>
+                <age>22</age>
+                <gender>Female</gender>
+                <email>sonalbhattarai@gmail.com</email>
+                <salary>95000</salary>
+              </employee_details>
+            </Employee>
+            <Employee empID="8">
+              <employee_details>
+                <name>
+                  <First_name>Slok</First_name>
+                  <Last_name>Shrestha</Last_name>
+                </name>
+                <age>25</age>
+                <gender>Male</gender>
+                <email>slokshrestha@gmail.com</email>
+                <salary>69000</salary>
+              </employee_details>
+            </Employee>
+          </team_leader>
+        </project>
+      </project_manager>
+    </department>
+    <department dptID="5">
+      <department_details>
+        <department_name>Web Department</department_name>
+        <department_floor>7</department_floor>
+      </department_details>
+      <project_manager>
+        <manager_details dpt="Web">
+          <name>
+            <first_name>Ellen</first_name>
+            <last_name>Hills</last_name>
+          </name>
+          <age>38</age>
+          <gender>Female</gender>
+          <email>ellenhills@gmail.com</email>
+          <salary>220000</salary>
+        </manager_details>
+        <project projID="2">
+          <project_details>
+            <project_photo/>
+            <project_name>Detecting malicious websites url</project_name>
+            <startDate>2019-04-09</startDate>
+            <endDate>2019-10-07</endDate>
+            <status>Pending</status>
+          </project_details>
+          <team_leader>
+            <leader_details dpt="Web">
+              <name>
+                <first_name>Rajiv</first_name>
+                <last_name>Luitel</last_name>
+              </name>
+              <age>21</age>
+              <gender>Male</gender>
+              <email>razivluitel@gmail.com</email>
+              <salary>150000</salary>
+              <member>5</member>
+            </leader_details>
+            <Employee empID="6">
+              <employee_details>
+                <name>
+                  <First_name>Eurashika</First_name>
+                  <Last_name>Maharjan</Last_name>
+                </name>
+                <age>23</age>
+                <gender>F</gender>
+                <email>eureymhjr@gmail.com</email>
+                <salary>76000</salary>
+              </employee_details>
+            </Employee>
+            <Employee empID="9">
+              <employee_details>
+                <name>
+                  <First_name>Prestige </First_name>
+                  <Last_name>Acharya</Last_name>
+                </name>
+                <age>27</age>
+                <gender>Male</gender>
+                <email>prestigeacharya@gmail.com</email>
+                <salary>64000</salary>
+              </employee_details>
+            </Employee>
+            <Employee empID="10">
+              <employee_details>
+                <name>
+                  <First_name>eroj</First_name>
+                  <Last_name>manandar</Last_name>
+                </name>
+                <age>26</age>
+                <gender>Male</gender>
+                <email>erojjmanandar@gmail.com</email>
+                <salary>55000</salary>
+              </employee_details>
+            </Employee>
+          </team_leader>
+        </project>
+      </project_manager>
+    </department>
+    <department dptID="1">
+      <department_details>
+        <department_name>Research and Development</department_name>
+        <department_floor>3</department_floor>
+      </department_details>
+      <Employee empID="2">
+        <employee_details>
+          <name>
+            <First_name>Diwash</First_name>
+            <Last_name>Upreti</Last_name>
+          </name>
+          <age>24</age>
+          <gender>Male</gender>
+          <email>diwashupreti@gmail.com</email>
+          <salary>88000</salary>
+        </employee_details>
+      </Employee>
+      <Employee empID="3">
+        <employee_details>
+          <name>
+            <First_name>Lovice </First_name>
+            <Last_name>Sunuwar</Last_name>
+          </name>
+          <age>26</age>
+          <gender>Male</gender>
+          <email>oktwenty@gmail.com</email>
+          <salary>81000</salary>
+        </employee_details>
+      </Employee>
+    </department>
+    <department dptID="2">
+      <department_details>
+        <department_name>Marketing</department_name>
+        <department_floor>2</department_floor>
+      </department_details>
+      <Employee empID="7">
+        <employee_details>
+          <name>
+            <First_name>Preaska</First_name>
+            <Last_name>Sharma</Last_name>
+          </name>
+          <age>22</age>
+          <gender>Female</gender>
+          <email>preaskasharma@gmail.com</email>
+          <salary>68000</salary>
+        </employee_details>
+      </Employee>
+    </department>
+    <department dptID="3">
+      <department_details>
+        <department_name>Human Resource Department</department_name>
+        <department_floor>4</department_floor>
+      </department_details>
+      <Employee empID="4">
+        <employee_details>
+          <name>
+            <First_name>Christina</First_name>
+            <Last_name>Shrestha</Last_name>
+          </name>
+          <age>22</age>
+          <gender>Female</gender>
+          <email>christistha@gmail.com</email>
+          <salary>74000</salary>
+        </employee_details>
+      </Employee>
+      <Employee empID="5">
+        <employee_details>
+          <name>
+            <First_name>Rohan</First_name>
+            <Last_name>Maharjan</Last_name>
+          </name>
+          <age>24</age>
+          <gender>Male</gender>
+          <email>masterofhell@gmail.com</email>
+          <salary>85000</salary>
+        </employee_details>
+      </Employee>
+    </department>
+  </ceo>
+</company>
